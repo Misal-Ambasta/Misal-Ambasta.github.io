@@ -18,7 +18,7 @@ function App() {
                 <Projects />
                 <div className="py-5">
                     <div className={`mb-2 ${Styles.heading}`}>Github</div>
-                </div>
+                </div> 
                 <GitHubCalendar blockSize={20} blockMargin={5} fontSize={16} username="Misal-Ambasta">
                     <ReactTooltip delayShow={50} html />
                 </GitHubCalendar>

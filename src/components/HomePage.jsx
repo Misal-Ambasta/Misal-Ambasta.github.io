@@ -41,7 +41,7 @@ class HomePage extends React.Component{
                     <div className="col-sm-12 col-lg-4">
                         <MdLocationOn size="40px" color="#0E6E84"/>
                         <br></br>
-                       Kolkata,India
+                       Kolkata, India
                     </div>
 
                     <div className="col-sm-12 col-lg-4">
