@@ -50,7 +50,10 @@ class Projects extends React.Component {
                                     <a target="_blank" rel="noopener noreferrer" href="https://comfort-living.vercel.app/" className="btn btn-success btn-block ">
                                         Live
                                     </a>
-                                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/masai-course/ac_047_misal/tree/master/week_23/day_2/assignments/router-project-misal-ambasta" className="btn btn-outline-dark btn-block ">
+                                    {/* <a target="_blank" rel="noopener noreferrer" href="https://github.com/masai-course/ac_047_misal/tree/master/week_23/day_2/assignments/router-project-misal-ambasta" className="btn btn-outline-dark btn-block ">
+                                        Github link
+                                    </a> */}
+                                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Misal-Ambasta/Comfort-Living" className="btn btn-outline-dark btn-block ">
                                         Github link
                                     </a>
                                 </div>
