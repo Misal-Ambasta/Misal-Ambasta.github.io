@@ -61,7 +61,7 @@ class Projects extends React.Component {
                     <br />
                     <div className="row justify-content-center">
                         <div className="card col-sm- col-md-9 col-lg-3 p-0 m-3">
-                            <img src="expenseManager.png" className="card-img-top" alt="img" />
+                            <img src="myntra-clone.jpg" className="card-img-top" alt="img" />
                             <div className="card-body d-flex flex-column">
                                 <h5 className="card-title">Myntra clone</h5>
                                 <p className="card-text">Myntra is a one stop shop for all your fashion and lifestyle needs. Being India's largest e-commerce store for fashion and lifestyle products</p>
