@@ -63,13 +63,13 @@ class Projects extends React.Component {
                         <div className="card col-sm- col-md-9 col-lg-3 p-0 m-3">
                             <img src="expenseManager.png" className="card-img-top" alt="img" />
                             <div className="card-body d-flex flex-column">
-                                <h5 className="card-title">Expense Manager</h5>
-                                <p className="card-text">Application that helps you manage and track your daily expenses. Designed to help you to manage, report and always be aware of what is happening in your own wallet.</p>
+                                <h5 className="card-title">Myntra clone</h5>
+                                <p className="card-text">Myntra is a one stop shop for all your fashion and lifestyle needs. Being India's largest e-commerce store for fashion and lifestyle products</p>
                                 <div className="mt-auto">
-                                    <a target="_blank" rel="noopener noreferrer" href="https://expense-manager-psi.vercel.app/" className="btn btn-success  btn-block">
+                                    <a target="_blank" rel="noopener noreferrer" href="https://nervous-bassi-781035.netlify.app/" className="btn btn-success  btn-block">
                                         Live
                                     </a>
-                                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/lakshmikorukanti/Expense-manager" className="btn btn-outline-dark  btn-block">
+                                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Misal-Ambasta/Myntra-clone" className="btn btn-outline-dark  btn-block">
                                         Github link
                                     </a>
                                 </div>
