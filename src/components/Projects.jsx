@@ -92,13 +92,13 @@ class Projects extends React.Component {
                             </div>
                         </div>
                         <div className="card col-sm- col-md-9 col-lg-3 p-0 m-3">
-                            <img src="arcade inventary.png" className="card-img-top" alt="img" />
+                            <img src="spacex-launches.png" className="card-img-top" alt="img" />
                             <div className="card-body d-flex flex-column">
-                                <h5 className="card-title">Arcade Inventory</h5>
-                                <p className="card-text">An App that will help you to find an restaurants and will provide list of items available in a restaurant. You can also place an order in this.</p>
+                                <h5 className="card-title">SpaceX Launches</h5>
+                                <p className="card-text">An App that will provide data of all the launches by the spaceX with its details of success and failure.</p>
                                 <div className="mt-auto">
-                                    <a target="_blank" rel="noopener noreferrer" href="#" className="btn btn-success btn-block ">Live</a>
-                                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Mamata24/Arcade-Inventory" className="btn btn-outline-dark btn-block ">
+                                    <a target="_blank" rel="noopener noreferrer" href="https://spacexdata-launches.netlify.app/" className="btn btn-success btn-block ">Live</a>
+                                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Misal-Ambasta/SpaceX" className="btn btn-outline-dark btn-block ">
                                         Github link
                                     </a>
                                 </div>
